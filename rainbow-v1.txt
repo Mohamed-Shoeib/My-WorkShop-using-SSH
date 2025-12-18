@@ -1,2 +1,5 @@
 ## this is rainbow feature -v1
 ## Colors added successfuly
+Red
+Orange
+Yellow
